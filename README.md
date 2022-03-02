@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 
 
-### <center> Hi there 👋, I'm Chris Borges </center>
+### <th align="center"> Hi there 👋, I'm Chris Borges </th>
 ---
 
 
