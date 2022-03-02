@@ -5,8 +5,9 @@ Here are some ideas to get you started:
 
 -->
 
-
+<tr>
 ### <th align="center"> Hi there 👋, I'm Chris Borges </th>
+  </tr>
 ---
 
 
