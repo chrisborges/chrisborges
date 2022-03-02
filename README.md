@@ -6,9 +6,9 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋, I'm Chris Borges
-##### I'm a macroecologist from Goiânia, Brasil.
+#### I'm a macroecologist from Goiânia, Brasil.
 
-- 🔎 PhD candidate in Ecology & Evolution, UFG
-- 🌎 Macroecology and biogeography
-- 🐒 Biological and biocultural diversity
-- 🛠 Creating simulation models
+##### - 🔎 PhD candidate in Ecology & Evolution, UFG
+##### - 🌎 Macroecology and biogeography
+##### - 🐒 Biological and biocultural diversity
+##### - 🛠 Creating simulation models
