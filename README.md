@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 #### I'm a macroecologist from Goiânia, Brasil.
 
 <ul>
-<li> 🔎 PhD candidate in Ecology & Evolution, UFG </li>
+<li> 🔎 PhD in Ecology & Evolution, UFG </li>
 <li> 🌎 Macroecology and biogeography </li>
 <li> 🐒 Biological and biocultural diversity </li>
 <li> 🛠 Creating simulation models </li>
