@@ -10,11 +10,13 @@ Here are some ideas to get you started:
 ---
 
 
-#### I'm a macroecologist from Goiânia, Brasil.
+#### I'm a data scientist/macroecologist from Goiânia, Brasil.
 
 <ul>
-<li> 🔎 PhD in Ecology & Evolution, UFG </li>
+<li> 🎲 Data Science</li>
+<li> 🔎 PhD in Ecology & Evolution </li>
+<li> 🛠 Creating predictive and simulation models </li>
+<li> 🎨 Building pretty figures
 <li> 🌎 Macroecology and biogeography </li>
 <li> 🐒 Biological and biocultural diversity </li>
-<li> 🛠 Creating simulation models </li>
 </ul>
